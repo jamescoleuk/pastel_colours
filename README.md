@@ -3,6 +3,7 @@
 A selection of pastel colours for [termion](https://github.com/redox-os/termion).
 
 They look like this:
+
 ![All pastel colours](examples/all.png)
 
 You can see these in your own terminal by running the example:
