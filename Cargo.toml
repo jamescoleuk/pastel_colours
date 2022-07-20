@@ -1,7 +1,9 @@
 [package]
 authors = ["James Cole <jamescole.uk@gmail.com>"]
+categories = ["command-line-interface", "command-line-utilities"]
 description = "A selection of pastel colours for use with termion"
 edition = "2021"
+keywords = ["bash", "cli"]
 license = "MIT OR Apache-2.0"
 name = "pastel_colours"
 repository = "https://github.com/jamescoleuk/pastel_colours"

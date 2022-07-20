@@ -1,5 +1,7 @@
 # pastel_colours
 
+[![Crates.io](https://img.shields.io/crates/v/pastel_colours.svg)](https://crates.io/crates/pastel_colours)
+
 A selection of pastel colours for [termion](https://github.com/redox-os/termion).
 
 They look like this:
